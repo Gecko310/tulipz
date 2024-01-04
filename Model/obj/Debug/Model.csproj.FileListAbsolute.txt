@@ -1,0 +1,56 @@
+D:\File cài đặt\doan\Model\bin\Debug\Model.dll.config
+D:\File cài đặt\doan\Model\bin\Debug\Model.dll
+D:\File cài đặt\doan\Model\bin\Debug\Model.pdb
+D:\File cài đặt\doan\Model\bin\Debug\EntityFramework.dll
+D:\File cài đặt\doan\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\File cài đặt\doan\Model\bin\Debug\Facebook.dll
+D:\File cài đặt\doan\Model\bin\Debug\Firebase.Auth.dll
+D:\File cài đặt\doan\Model\bin\Debug\Microsoft.Owin.dll
+D:\File cài đặt\doan\Model\bin\Debug\Microsoft.Owin.Security.dll
+D:\File cài đặt\doan\Model\bin\Debug\Newtonsoft.Json.dll
+D:\File cài đặt\doan\Model\bin\Debug\Owin.dll
+D:\File cài đặt\doan\Model\bin\Debug\PagedList.dll
+D:\File cài đặt\doan\Model\bin\Debug\PagedList.Mvc.dll
+D:\File cài đặt\doan\Model\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\File cài đặt\doan\Model\bin\Debug\EntityFramework.xml
+D:\File cài đặt\doan\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\File cài đặt\doan\Model\bin\Debug\Facebook.xml
+D:\File cài đặt\doan\Model\bin\Debug\Microsoft.Owin.xml
+D:\File cài đặt\doan\Model\bin\Debug\Microsoft.Owin.Security.xml
+D:\File cài đặt\doan\Model\bin\Debug\Newtonsoft.Json.xml
+D:\File cài đặt\doan\Model\bin\Debug\PagedList.xml
+D:\File cài đặt\doan\Model\bin\Debug\PagedList.Mvc.xml
+D:\File cài đặt\doan\Model\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\File cài đặt\doan\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\File cài đặt\doan\Model\obj\Debug\Model.csproj.CopyComplete
+D:\File cài đặt\doan\Model\obj\Debug\Model.dll
+D:\File cài đặt\doan\Model\obj\Debug\Model.pdb
+D:\File cài đặt\doan\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\doan\Model\bin\Debug\Model.dll.config
+D:\doan\Model\bin\Debug\Model.dll
+D:\doan\Model\bin\Debug\Model.pdb
+D:\doan\Model\bin\Debug\EntityFramework.dll
+D:\doan\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\doan\Model\bin\Debug\Facebook.dll
+D:\doan\Model\bin\Debug\Firebase.Auth.dll
+D:\doan\Model\bin\Debug\Microsoft.Owin.dll
+D:\doan\Model\bin\Debug\Microsoft.Owin.Security.dll
+D:\doan\Model\bin\Debug\Newtonsoft.Json.dll
+D:\doan\Model\bin\Debug\Owin.dll
+D:\doan\Model\bin\Debug\PagedList.dll
+D:\doan\Model\bin\Debug\PagedList.Mvc.dll
+D:\doan\Model\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\doan\Model\bin\Debug\EntityFramework.xml
+D:\doan\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\doan\Model\bin\Debug\Facebook.xml
+D:\doan\Model\bin\Debug\Microsoft.Owin.xml
+D:\doan\Model\bin\Debug\Microsoft.Owin.Security.xml
+D:\doan\Model\bin\Debug\Newtonsoft.Json.xml
+D:\doan\Model\bin\Debug\PagedList.xml
+D:\doan\Model\bin\Debug\PagedList.Mvc.xml
+D:\doan\Model\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\doan\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\doan\Model\obj\Debug\Model.csproj.CopyComplete
+D:\doan\Model\obj\Debug\Model.dll
+D:\doan\Model\obj\Debug\Model.pdb
+D:\doan\Model\obj\Debug\Model.csproj.AssemblyReference.cache
